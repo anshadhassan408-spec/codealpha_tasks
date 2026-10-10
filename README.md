@@ -40,10 +40,6 @@ This project predicts automobile prices using machine learning regression algori
 4. Train the models and compare their performance.
 5. Enter car specifications and obtain a price prediction.
 
-## Dataset
-
-The demonstration uses the historical UCI Automobile dataset. Predictions are educational estimates and are not current market quotations.
-
 ## Author
 
 Created as part of a machine learning internship project.
